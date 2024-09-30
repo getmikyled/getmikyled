@@ -6,23 +6,53 @@
   Hello, I'm Mikyle!
 </h1>
 
-### About Me:
+### About Me
 
-### Work Experiences:
+### Work Experiences
 
-WaxHeart Team (2023-Present) <br>
-**Technical Artist** & **Unity Engineer** <br>
- *  Implemented camera shots, animation hookups, shaders, and VFX for a 3D Atmospheric Horror Platformer with 850+ wishlists on Steam. <br>
- *  Developed UI, player interaction, state machines, and procedural game systems in Unity with C#. <br>
+🌱STEMtales (2024-2024) <br>
+ * As a **Game Dev Intern** at STEMtales, an educational game studio, I made games in **Godot** with the goal of making STEM more accessible.
 
-EGD Collective (2023 - Present) <br>
-**Tools Programmer** - Game Studio Program Fellow
- * Develops **Unity editor tools** to support [level design](https://docs.google.com/document/d/1cZ18IqWMKUqVjR6_RCs_KYIDnn2YCPaZALiG4MnW8c0/edit?usp=sharing) and [QA](https://docs.google.com/document/d/183_69LY_tde7SNKWaOhYpW8EEEUuC91dAOeLtYBI3aM/edit?usp=sharing) pipelines and cuts their production time by 50% with a focus on optimization and efficiency for AAA simulated game, Striking Hell. <br>
+🕯️WaxHeart Team (2023-Present) <br>
+ *  For the WaxHeart Team, I work as a **Unity Engineer** turned **Technical Artist** to bring more life into the 3D platformer genre.
 
-Blobs Games (2024 - Present) <br>
-**Technical Artist** <br>
- * Develops a procedurally generating map chunks system in Unreal Engine 5 using Blueprints.
- * Created 
+🎮EGD Collective (2023 - Present) <br>
+ * With EGD Collective, I work as a **Tools Programmer** turned **Technical Artist** with other students in AAA simulated work environments to create large scale games.
+
+🍦Blobs Games (2024 - Present) <br>
+ * With Blobs Games, I tackle automation with **Houdini** and tools as a **Technical Artist**.
+
+### Skills
+#### Languages & Frameworks
+<!-- Got icons from https://github.com/devicons/devicon/tree/master/icons -->
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;  
+</div>
+
+#### Games & Software
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original-wordmark.svg" title="Godot" alt="Godot" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original-wordmark.svg" title="Unreal" alt="Unreal" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/maya/maya-original.svg" title="Maya" alt="Maya" width="40" height="40"/>&nbsp;
+
+### Projects
+<span>
+<table>
+  <tr>
+  <td>
+      
+[![TechArt](https://github-readme-stats.vercel.app/api/pin/?username=getmikyled&repo=TechArt_Projects&theme=calm)](https://github.com/chmosquera/Tessellation-Demo=)
+    
+  </td>
+  <td>
+</table>
+</span>
+
 <!--
 **getmikyled/getmikyled** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -10,17 +10,17 @@
 
 ### Work Experiences
 
-🌱STEMtales (2024-2024) <br>
-As a **Game Dev Intern** at STEMtales, an educational game studio, I made games in **Godot** with the goal of making STEM more accessible.
+🌱STEMtales (2024-2024) - **Game Dev Intern** <br>
+**Languages & Tools** - Godot, GDScript, Godot's Shading Language
 
-🕯️WaxHeart Team (2023-Present) <br>
- For the WaxHeart Team, I work as a **Unity Engineer** turned **Technical Artist** to bring more life into the 3D platformer genre.
+🕯️WaxHeart Team (2023-Present) **Unity Engineer -> Technical Artist** <br>
+**Languages & Tools** - Unity, C#, Particle System, Cinemachine
 
-🎮EGD Collective (2023 - Present) <br>
-With EGD Collective, I work as a **Tools Programmer** turned **Technical Artist** with other students in AAA simulated work environments to create large scale games.
+🎮EGD Collective (2023 - Present) - **Tools Programmer -> Technical Artist** <br>
+**Languages & Tools** - Unity, C#, IMGUI, UI Toolkit
 
-🍦Blobs Games (2024 - Present) <br>
-With Blobs Games, I tackle automation with **Houdini** and tools as a **Technical Artist**.
+🍦Blobs Games (2024 - Present) - **Technical Artist** <br>
+**Languages & Tools** - Houdini, VEX, Blueprints, C++ 
 
 ### Skills
 #### Languages & Frameworks

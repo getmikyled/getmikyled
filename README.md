@@ -63,7 +63,7 @@
   </td>
   <td>
 
-  [![ProceduralTools](https://github-readme-stats.vercel.app/api/pin/?username=getmikyled&repo=HoudiniTools&theme=calm)](https://github.com/getmikyled/ProceduralTools) 
+  [![ProceduralTools](https://github-readme-stats.vercel.app/api/pin/?username=getmikyled&repo=ProceduralTools&theme=calm)](https://github.com/getmikyled/ProceduralTools) 
     
   </td>
   </tr>

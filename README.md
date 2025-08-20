@@ -75,7 +75,7 @@
   </td>
   <td>
 
-  [![GLMPipelineHub](https://github-readme-stats.vercel.app/api/pin/?username=getmikyled&repo=GLMPipelineHub&theme=calm)]([https://www.artstation.com/getmikyled](https://github.com/getmikyled/GLMPipelineHub)) 
+  [![GLMPipelineHub](https://github-readme-stats.vercel.app/api/pin/?username=getmikyled&repo=GLMPipelineHub&theme=calm)](https://github.com/getmikyled/GLMPipelineHub)
     
   </td>
   </tr>
